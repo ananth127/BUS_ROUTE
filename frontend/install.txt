@@ -1,0 +1,3 @@
+npx create-react-app bus-tracking
+cd bus-tracking
+npm install axios react-leaflet leaflet leaflet-routing-machine jwt-decode
